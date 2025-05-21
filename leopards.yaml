@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD
 coach : Shirley
+=======
+coach : Malissa
+>>>>>>> de67b0f (Edit Leopards)
 
 members:
 - Linda
